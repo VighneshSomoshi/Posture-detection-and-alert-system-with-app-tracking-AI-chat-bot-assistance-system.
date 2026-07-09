@@ -1,0 +1,2 @@
+# Posture-detection-and-alert-system-with-app-tracking-AI-chat-bot-assistance-system.
+Dual-Zone Wearable Posture Monitoring and Correction System using two MPU6050 IMU sensors and an ESP32 to independently monitor upper and lower back posture. The device detects posture deviations in real time and provides localized vibration feedback through dedicated motors to encourage healthy spinal alignment.
